@@ -1,2 +1,2 @@
 # seatReservations
-"Real world application" of a trains seat reservation system.
+"Real world application" of a seat reservation system such as a train, plane, bus, ect.
